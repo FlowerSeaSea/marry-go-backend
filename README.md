@@ -1,0 +1,2 @@
+# MarryGo-server
+node+mysql
